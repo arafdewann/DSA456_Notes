@@ -28,11 +28,11 @@ Keep repeating until all nodes are done.
 
 # Video Links : 
 1) First Video - Easy Steps (https://youtu.be/bZkzH5x0SKU?si=r7lrYtxXyhnzetY8)
-2)Best Video to start with (https://youtu.be/4jyESQDrpls?si=letaD8O_6WEjIDgh)
-3)Bacis (https://youtu.be/bvWVs0tJUOY?si=FGwcFDb8EFeYRBF8)
-4)just to warm-up (https://youtu.be/_lHSawdgXpI?si=R0VAAjUpECCa62Tx)
-5)Old school on blackboard (https://youtu.be/XB4MIexjvY0?si=xBRbzQO32ve6yqts)
-6)Last One (https://youtu.be/bZkzH5x0SKU?si=siEdDaVGt3vliCCF)
+2) Best Video to start with (https://youtu.be/4jyESQDrpls?si=letaD8O_6WEjIDgh)
+3) Bacis (https://youtu.be/bvWVs0tJUOY?si=FGwcFDb8EFeYRBF8)
+4) just to warm-up (https://youtu.be/_lHSawdgXpI?si=R0VAAjUpECCa62Tx)
+5) Old school on blackboard (https://youtu.be/XB4MIexjvY0?si=xBRbzQO32ve6yqts)
+6) Last One (https://youtu.be/bZkzH5x0SKU?si=siEdDaVGt3vliCCF)
 
 ## Sample 
 <p><img src="https://github.com/arafdewann/DSA456_Notes/blob/main/Dijkstra's%20Algorithm/sample1.png" alt="MD ARAFAT KOYES" width="500px"/><p>
