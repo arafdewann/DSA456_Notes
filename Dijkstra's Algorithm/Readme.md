@@ -19,12 +19,12 @@ Update distances only if a shorter path is found.
 Keep repeating until all nodes are done.
 
 ## Quick Summary for Exam Notes
-Start at v1 (distance = 0).
-Update directly connected nodes.
-Pick the next closest node (v2).
-Update neighbor distances if a shorter path is found.
-Repeat until all nodes are processed.
-The final table gives the shortest paths.
+- Start at v1 (distance = 0).
+- Update directly connected nodes.
+- Pick the next closest node (v2).
+- Update neighbor distances if a shorter path is found.
+- Repeat until all nodes are processed.
+- The final table gives the shortest paths.
 
 # Video Links : 
 1) Best Video to start with (https://youtu.be/4jyESQDrpls?si=letaD8O_6WEjIDgh)
