@@ -38,7 +38,7 @@ This repository is dedicated to self-studying Data Structures and Algorithms (DS
   - Fibonacci, Knapsack Problem, Longest Common Subsequence
   - Matrix Chain Multiplication, LIS, Coin Change
 - **Greedy Algorithms**
-  - Activity Selection, Huffman Encoding, Kruskal’s Algorithm
+  - Activity Selection, Huffman Encoding, Kruskal’s Algorithm, Dijkstra's Algorithm.
 - **Advanced Topics**
   - Trie (Prefix Tree)
   - Segment Tree
