@@ -33,4 +33,5 @@ Keep repeating until all nodes are done.
 4) Old school on blackboard (https://youtu.be/XB4MIexjvY0?si=xBRbzQO32ve6yqts)
 5) Last One (https://youtu.be/bZkzH5x0SKU?si=siEdDaVGt3vliCCF)
 
-<p><img src="https://github.com/arafdewann/DSA456_Notes/blob/main/Dijkstra's%20Algorithm/sample1.png" alt="MD ARAFAT KOYES" width="300px"/><p>
+## Sample 
+<p><img src="https://github.com/arafdewann/DSA456_Notes/blob/main/Dijkstra's%20Algorithm/sample1.png" alt="MD ARAFAT KOYES" width="500px"/><p>
